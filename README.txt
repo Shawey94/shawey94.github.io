@@ -1,5 +1,5 @@
 # xiaoweiyu.github.io
-Personal Website
+Xiaowei Yu
 
 Read Only by HTML5 UP
 html5up.net | @ajlkn
